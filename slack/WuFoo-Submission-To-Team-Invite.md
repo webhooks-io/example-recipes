@@ -7,7 +7,7 @@ Depending on how your form is setup you will need to adjust your sample code.
 
 ``` javascript
 {
-  "Field1": "jasonfill@gmail.com"
+  "Field1": "some-email@gmail.com"
 }
 ```
 
